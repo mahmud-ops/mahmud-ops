@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Mahmud</h1>
 
 <p align="center">
-  💻 Learning Web Development &nbsp;|&nbsp; Exploring DevOps & Cybersecurity &nbsp;
+  💻 Learning Web Development &nbsp;|&nbsp; Exploring DevOps & Cybersecurity
 </p>
 
 <p align="center">
@@ -10,16 +10,23 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmud-ops&show_icons=true&theme=radical" alt="Mahmud's GitHub stats" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmud-ops&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud-ops&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-ops&layout=compact&theme=radical" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-ops&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+### 🤖 Codeforces Stats
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abdullahmahmud01798" alt="Codeforces Stats" />
+</p>
 
 ---
 
@@ -27,18 +34,18 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,c,cpp" />
-  &nbsp;
 </p>
 
 ---
 
-
-
-### 📫 Let’s Connect!
+### 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdullah-al-mahmud01798/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/abdullah-al-mahmud01798/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
   &nbsp;
-  <a href="mailto:abdullahmahmud01798@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:abdullahmahmud01798@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
-
