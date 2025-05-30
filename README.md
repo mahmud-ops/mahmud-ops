@@ -37,7 +37,8 @@
 ### 📫 Let’s Connect!
 
 <p align="center">
-  <a href="linkedin.com/in/abdullah-al-mahmud01798/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/abdullah-al-mahmud01798/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   &nbsp;
   <a href="mailto:abdullahmahmud01798@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
+
