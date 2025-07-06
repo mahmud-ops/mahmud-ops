@@ -33,8 +33,13 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,c,cpp,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,git,c,cpp" />
 </p>
+
+<p align="center">
+  <em>Currently sharpening: TypeScript & Bootstrap 🛠️</em>
+</p>
+
 
 ---
 
