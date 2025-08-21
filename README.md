@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <em>Currently sharpening: TypeScript & Bootstrap 🛠️</em>
+  <em>Currently sharpening: Tailwind and react 🛠️</em>
 </p>
 
 
