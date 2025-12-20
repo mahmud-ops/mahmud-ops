@@ -34,6 +34,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github" />
+</p>
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,tailwind,bash,md,mint" />
 </p>
 
