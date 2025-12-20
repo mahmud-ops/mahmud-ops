@@ -33,12 +33,9 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github" />
-</p>
-<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github" /> <br>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,tailwind,bash,md,mint" />
 </p>
-
 <p align="center">
   <em>Currently sharpening: Tailwind and react 🛠️</em>
 </p>
