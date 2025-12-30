@@ -10,18 +10,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmud-ops&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud-ops&theme=radical" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-ops&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🤖 Codeforces Stats
 
 <p align="center">
