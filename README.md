@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <em>Currently sharpening: React & Tailwind 🛠️</em>
+  <em>Currently sharpening: React & Go 🛠️</em>
 </p>
 
 ---
