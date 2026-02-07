@@ -24,6 +24,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github" />
   <br>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,tailwind,bash,md,mint" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=go,mui" />
 </p>
 
 <p align="center">
