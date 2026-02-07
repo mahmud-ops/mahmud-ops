@@ -21,11 +21,9 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=ts,react,go,mui,git" />
   <br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,tailwind,bash,md,mint" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=go,mui" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,bash,md,mint" />
 </p>
 
 <p align="center">
