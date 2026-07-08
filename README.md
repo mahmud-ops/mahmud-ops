@@ -21,9 +21,9 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,go,mui,git" />
+  <img src="https://skillicons.dev/icons?i=react,go,mui,git" />
   <br>
-  <img src="https://skillicons.dev/icons?i=cpp,java,bash,md,mint" />
+  <img src="https://skillicons.dev/icons?i=ts,postgresql,md,prisma" />
 </p>
 
 <p align="center">
