@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Mahmud</h1>
 
 <p align="center">
-  💻 Learning Web Development &nbsp;|&nbsp; Exploring DevOps & Cybersecurity
+  Backend engineer in training. TypeScript · Node.js · PostgreSQL · Prisma · Docker. Building systems with real auth, RBAC, and database design. CSE @ PUST.
 </p>
 
 <p align="center">
